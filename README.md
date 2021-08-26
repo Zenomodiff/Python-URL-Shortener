@@ -1,4 +1,4 @@
-# Python-URL-Shortener s
+# Python-URL-Shortener 
 
-
-orten the URL Faster With python URL SGORTNER
+import pyshorteners module for the peoject
+Shorten the URL Faster With python URL SGORTNER
